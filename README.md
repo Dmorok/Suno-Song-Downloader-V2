@@ -52,4 +52,4 @@ Since this extension is not published in the Chrome Web Store, it must be instal
 After this, the extension's icon will appear on the Chrome toolbar.
 
 ---
-**Created using Manifest V3 (Service Worker).**
+**Created using Manifest V3 (Service Worker)..**
