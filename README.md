@@ -1,6 +1,6 @@
 # Suno Song Downloader 🎧 (Unofficial) 
 
-![Main screen screenshot](Images/scr02.png)
+![Main screen screenshot](Images/scr03.png)
 
 A simple yet powerful unofficial browser extension designed to simplify the process of downloading audio files (**MP3** and **WAV**) and cover art (**JPEG**) from Suno.ai pages.
 
